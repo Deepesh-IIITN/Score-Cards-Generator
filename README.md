@@ -1,5 +1,10 @@
 <h3>Score Cards Generator</h3>
-
+<p>
+<b>About:- </b></br>
+1. Developed using c++ language.
+2. File Handling is used.
+3. In this application we generate the Score Cards.
+</p>
 <p>
 <b>Steps for run this application:-</b></br>
 <ul>
