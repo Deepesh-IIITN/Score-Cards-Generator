@@ -8,7 +8,7 @@
 </ul>
 </p>
 <p>
-<b>Steps for run this application:-</b></br>
+<b>Steps for run this application in your system:-</b></br>
 <ul>
 <ol>1. Download Generate_Score_Cards.exe file and put it in a folder</ol>
 <ol>2. In this folder paste you excel file and give the name 'students.csv'. The format of excel file will be same like students.csv. </br>
