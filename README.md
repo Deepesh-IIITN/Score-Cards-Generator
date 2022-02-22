@@ -16,4 +16,12 @@
 <ol>3. create empty folder named 'score_cards'</ol>
 <ol>4. Now run(open) Generate_Score_Cards.exe</ol>
 </ul>
+
+<b>Sample data:- </b></br>
+![ss26](https://user-images.githubusercontent.com/69786385/155090787-f560e922-4361-4182-b840-b691e4b2c834.PNG)
+
+<b>Sample Output:- </b></br>
+![ss27](https://user-images.githubusercontent.com/69786385/155091027-0acaf314-606d-4722-bb9c-a0276e044848.PNG)
 </p>
+
+
